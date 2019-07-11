@@ -1,0 +1,6 @@
+[dmr]
+signals=dmr_1khz_tone,dmr_data1,dmr_data2,dmr_voice,dmr_prbs
+
+[directories]
+result=/home/cjam/Documents/colter-thesis-results
+data=/home/cjam/Documents/colter-thesis/research/data

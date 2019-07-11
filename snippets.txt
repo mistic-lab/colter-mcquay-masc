@@ -1,0 +1,35 @@
+file_names = [
+    "cml_1khz_tone",
+    "cml_data1",
+    "cml_data2",
+    "cml_voice"
+    "cml_prbs",
+]
+
+Test Signals
+
+0 - 1 KHz Test Tone
+1 - Data Message 1 ("DE9945 Data Message using rate 1/2 data")
+2 - Data Message 2 ("Hello World from the DE9945")
+3 - Voice
+4 - Pseudo Random Bit Sequence
+
+
+
+|  DMR446  | Frequency |
+|  Channel |   (MHz)   |
+| -------- | --------- |
+|    1     | 446.10625 |
+|    2     | 446.11875 |
+|    3     | 446.13125 |
+|    4     | 446.14375 |
+|    5     | 446.15625 |
+|    6     | 446.16875 |
+|    7     | 446.18125 |
+|    8     | 446.19375 |
+
+
+Data-set 
+
+- low power Output of DE9945 ~27 dbm
+- Attenutation of 30 DB

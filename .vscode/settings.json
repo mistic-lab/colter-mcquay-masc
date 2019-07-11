@@ -1,0 +1,29 @@
+{
+    "files.exclude": {
+        "**/.git": true,
+        "**/.svn": true,
+        "**/.hg": true,
+        "**/CVS": true,
+        "**/.DS_Store": true,
+        "**/*.aux":true,
+        "**/*.lof":true,
+        "**/*.lot":true,
+        "**/*.fdb_latexmk":true,
+        "**/*.fls":true,
+        "**/*.synctex.gz":true,
+        "**/*.blg":true,
+        "**/*.bbl":true,
+        "**/*.toc":true,
+        "**/*.log":true,
+        "**/*.out":true
+    },
+    "git.enableSmartCommit": true,
+    "git.confirmSync": false,
+    "editor.wordWrap": "on",
+    "spellright.language": ["English (Canadian)"],
+    "spellright.documentTypes": [
+        "markdown",
+        "latex",
+        "plaintext"
+    ],
+}
